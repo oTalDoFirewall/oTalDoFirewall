@@ -5,11 +5,8 @@
 🎓🧠🤖 Artificial Inteligence Academic
 
 <p align="left">
-   <img src="https://github-readme-stats.vercel.app/api?username=JAVABEAR16&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAVABEAR16&theme=tokyonight&langs_count=16" height="180" />
-</p>
-<p align="center">
-   <img src="https://github.com/user-attachments/assets/beeeed6b-84d0-4f16-be6b-fa12c69b0914" alt="loading.gif" height="300px" width="300px" />
+   <img src="https://github-readme-stats.vercel.app/api?username=oTalDoFirewall&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oTalDoFirewall&theme=tokyonight&langs_count=16" height="180" />
 </p>
 
 # 🛠️ Tools & Technologies
