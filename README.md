@@ -4,11 +4,6 @@
 
 🎓🧠🤖 Artificial Inteligence Academic
 
-<p align="left">
-   <img src="https://github-readme-stats.vercel.app/api?username=oTalDoFirewall&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oTalDoFirewall&theme=tokyonight&langs_count=16" height="180" />
-</p>
-
 # 🛠️ Tools & Technologies
 
 <div style = "display: inline_block"><br>
