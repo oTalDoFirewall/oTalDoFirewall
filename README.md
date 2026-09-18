@@ -2,7 +2,7 @@
 
 💻🔐👾 Cyber Security Technician
 
-🎓🧠🤖 Artificial Inteligence Academic
+🎓🧠🤖 Artificial Intelligence Academic
 
 
 
